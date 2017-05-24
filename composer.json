@@ -1,0 +1,17 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/andyyoung/ohShopify.php"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/andyyoung/PHP-Shopify-API-Wrapper"
+        }
+    ],
+    "require": {
+        "shopifyextras/shopify-php-api-wrapper": "dev-ay-metafields",
+        "andyyoung/ohShopify.php": "dev-master",
+        "php-amqplib/php-amqplib": "2.5.*"
+    }
+}
